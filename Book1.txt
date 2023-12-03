@@ -1,2 +1,2 @@
 This is the content of book 1.
-This a new line added as a change.
+This is a new line that has been added as a change.
